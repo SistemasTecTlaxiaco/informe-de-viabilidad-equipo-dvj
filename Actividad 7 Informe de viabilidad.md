@@ -1,7 +1,7 @@
 # El Reto del Objetivo Viable - Proyecto Money-Digital
 
-**Equipo:** Grupo JAD  
-**Lema:** Dinero inteligente, futuro brillante
+**Equipo:** Grupo JDV 
+
 
 ---
 
